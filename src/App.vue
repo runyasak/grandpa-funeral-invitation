@@ -2,7 +2,7 @@
 import liff from '@line/liff'
 import { onMounted } from 'vue';
 
-const grandPaImageUrl = 'https://firebasestorage.googleapis.com/v0/b/grandpa-funeral-invitation.firebasestorage.app/o/IMG_1519.JPG?alt=media&token=be64224a-9306-49e8-baae-69462c2eff69'
+const grandPaImageUrl = 'https://firebasestorage.googleapis.com/v0/b/grandpa-funeral-invitation.firebasestorage.app/o/S__8806409.jpg?alt=media&token=27eff48e-c788-4ad6-a443-1e6b228438d9'
 
 onMounted(async () => {
   await liff.init({ liffId: import.meta.env.VITE_LIFF_ID });
