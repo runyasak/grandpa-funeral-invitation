@@ -127,7 +127,7 @@ function onSendShare() {
                 },
                 {
                   type: 'text',
-                  text: 'ถึงวันอังคารที่ 22 กรกฎาคม พ.ศ.2568',
+                  text: 'ถึงวันที่ 22 กรกฎาคม พ.ศ.2568',
                   align: 'center',
                   color: '#FFFFFF',
                   wrap: true
@@ -155,7 +155,7 @@ function onSendShare() {
                 },
                 {
                   type: 'text',
-                  text: 'ณ วันอังคารที่ 22 กรกฎาคม พ.ศ.2568',
+                  text: 'ณ วันที่ 22 กรกฎาคม พ.ศ.2568',
                   size: 'md',
                   align: 'center',
                   color: '#FFFFFF',
