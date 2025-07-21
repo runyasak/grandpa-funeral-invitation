@@ -148,7 +148,7 @@ function onSendShare() {
               contents: [
                 {
                   type: 'text',
-                  text: 'เก็บร่างคุณแม่ไว้ 100 วัน',
+                  text: 'เก็บร่างคุณพ่อไว้ 100 วัน',
                   align: 'center',
                   color: '#FFFFFF',
                   wrap: true
